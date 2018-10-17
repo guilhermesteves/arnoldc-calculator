@@ -15,7 +15,7 @@ And Run it
 
     ./build_all
 
-### Sum
+#### Sum
 
 Compile it 
 
@@ -25,7 +25,7 @@ And run it
 
     java calculator-sum
 
-### Subtract
+#### Subtract
 
 Compile it 
 
@@ -35,7 +35,7 @@ And run it
 
     java calculator-subtract
 
-### Multiply
+#### Multiply
 
 Compile it 
 
@@ -45,7 +45,7 @@ And run it
 
     java calculator-multiply
 
-### Divide
+#### Divide
 
 Compile it 
 
